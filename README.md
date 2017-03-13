@@ -1,3 +1,5 @@
+![LOGO](https://api.pcloud.com/getpubthumb?code=XZuTNtZBs6bTEONAo5kt0Q1MpqlzkbL4m0k&linkpassword=undefined&size=144x144&crop=0&type=auto)
+
 # NativeAdsPlugin v0.0.1
 
 Cocos Creator 插件：实现原生平台广告的快速接入（支持iOS、Android）。
