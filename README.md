@@ -6,7 +6,7 @@ Creator编辑器进行广告信息配置，广告展示策略配置，编辑器�
 
 ## 支持广告列表
 
-| 名称 | 横幅  | 插屏 | 激励 |         说明         |
+| 名称 | 横幅  | 插屏 | 激励 |         说明         |
 |:--------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
 | Admob | y | y | n | https://www.google.com/admob/ |
 | Facebook | y | y | n | https://developers.facebook.com/docs/audience-network 仅支持海外用户 |
@@ -210,7 +210,7 @@ libz.tbd
 StoreKit.framework
 
 libxml2.tbd
-https://api.pcloud.com/getpubthumb?code=XZaOAtZOUsD82ln4TjoLiTNwQSGQ0oagTT7&linkpassword=undefined&size=636x355&crop=0&type=auto
+
 WebKit.framework
 
 EventKitUI.framework
@@ -219,14 +219,14 @@ EventKit.framework
 
 MessageUI.framework
 
-![SS](https://api.pcloud.com/getpubthumb?code=XZ06AtZjJRjajvCPGhTt4zOP0dFrXGvyEey&linkpassword=undefined&size=1245x695&crop=0&type=auto)
+![SS](https://api.pcloud.com/getpubthumb?code=XZ06AtZjJRjajvCPGhTt4zOP0dFrXGvyEey&linkpassword=undefined&size=636x355&crop=0&type=auto)
 
 
 #### Compile Flags
 
 新添加的.m和.mm文件需要标注自动引用计数-fobjc-arc
 
-![SS](https://api.pcloud.com/getpubthumb?code=XZJ6AtZFf9VhxTQcmQVhjg6ThOMEQmjh3zk&linkpassword=undefined&size=1245x1035&crop=0&type=auto)
+![SS](https://api.pcloud.com/getpubthumb?code=XZJ6AtZFf9VhxTQcmQVhjg6ThOMEQmjh3zk&linkpassword=undefined&size=640x532&crop=0&type=auto)
 
 
 #### iOS10 新增权限验证
@@ -260,7 +260,7 @@ NativeAdsPlugin目录/src 文件复制到 Android Studio目录/app/src下
 
 NativeAdsPlugin目录/libs 文件复制到 Android Studio目录/app/libs下
 
-![SS](https://api.pcloud.com/getpubthumb?code=XZp6AtZ8wsyTkfuIBfBa4Cp4469SmIVEgdk&linkpassword=undefined&size=556x678&crop=0&type=auto)
+![SS](https://api.pcloud.com/getpubthumb?code=XZp6AtZ8wsyTkfuIBfBa4Cp4469SmIVEgdk&linkpassword=undefined&size=390x475&crop=0&type=auto)
 
 #### 配置build.gradle文件
 minSdkVersion 14+,compileSdkVersion 23+,targetSdkVersion=22
@@ -336,5 +336,4 @@ dependencies {
     android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
     android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
 ```
-
 
