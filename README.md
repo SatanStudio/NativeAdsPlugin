@@ -11,7 +11,7 @@ Creator编辑器进行广告信息配置，广告展示策略配置，编辑器�
 | 名称 | 横幅  | 插屏 | 激励 |         说明         |
 |:-----------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
 | Admob | y | y | n | https://www.google.com/admob/ |
-| 广点通(腾讯广告) | y | y | n | http://e.qq.com/dev/index.html |
+| 广点通 | y | y | n | http://e.qq.com/dev/index.html |
 | Facebook | y | y | n | https://developers.facebook.com/docs/audience-network 仅支持海外用户 |
 | Unity | n | y | y | https://unity3d.com/cn/services/ads |
 | Vungle | n | y | y | http://vungle.cn/ |
